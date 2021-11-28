@@ -1,0 +1,16 @@
+Partlist exported from E:/gitTesting/PCBDesignFiles/SanitizerDispenser/Sanitizer.sch at 5/23/2020 11:34 AM
+
+Part    Value                   Device                  Package                 Description                                        MF                MPN        OC_FARNELL OC_NEWARK POPULARITY SPICEMODEL SPICEPREFIXL
+BATTERY 22-23-2021              22-23-2021              22-23-2021              .100" (2.54mm) Center Header - 2 Pin               MOLEX             22-23-2021 1462926    25C3832                                     
+C1      0.01UF                  C2.5/2                  C2.5-2                  CAPACITOR                                                                                                                              
+C2      0.01UF                  C2.5/2                  C2.5-2                  CAPACITOR                                                                                                                              
+C3      100UF                   C-US025-025X050         C025-025X050            CAPACITOR, American symbol                                                                                                             
+IC1     L293D                   L293D                   DIL16                   PUSH-PULL 4 CHANNEL DRIVER                                           L293D      9589619    56P8249   16                                
+IC2     NE555                   NE555                   DIL-08                  General purpose bipolar Timer                      Arrow Electronics NE555N     1467742    89K1486                                     
+MOTOR   22-23-2021              22-23-2021              22-23-2021              .100" (2.54mm) Center Header - 2 Pin               MOLEX             22-23-2021 1462926    25C3832                                     
+R1      10k                     R-US_0204/5             0204/5                  RESISTOR, American symbol                                                                                                              
+R2      10k                     R-US_0204/5             0204/5                  RESISTOR, American symbol                                                                                                              
+R3                              R-TRIMM3339P            RTRIM3339P              Trimm resistor                                                                                                  X          POT         
+SENSOR  22-23-2031              22-23-2031              22-23-2031              .100" (2.54mm) Center Header - 3 Pin               MOLEX             22-23-2031 1462950    30C0862                                     
+SWITCH  22-23-2021              22-23-2021              22-23-2021              .100" (2.54mm) Center Header - 2 Pin               MOLEX             22-23-2021 1462926    25C3832                                     
+U$1     BATTERY-CHARGER-LI-PROT BATTERY-CHARGER-LI-PROT BATTERY-CHARGER-LI-PROT Lithium Battery 5V Charger with protection circuit                                                                                     
